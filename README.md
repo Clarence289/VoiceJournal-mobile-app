@@ -5,5 +5,5 @@
 
 
 
-![Recording Screen](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/6dfd63ef-bf57-455b-b418-e84ed52bd358)              ![Recording Screen](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/a491163a-104f-418c-9dba-2a2c2675e0bc)
+![Recording Screen](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/6dfd63ef-bf57-455b-b418-e84ed52bd358)              ![Home page](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/cc76ee63-47e4-47b5-b4ef-843992ef72f2)
 
