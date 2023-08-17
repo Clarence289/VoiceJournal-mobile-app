@@ -1,5 +1,6 @@
 
 
+
 ﻿# VoiceJournal-App
 #React Native App
 
@@ -9,7 +10,7 @@
 
 
 
-![Home page](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/0909173f-3a6d-437c-9135-ea1304c71de4)            ![multi records](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/9a830621-71f9-4545-981b-24f33d98d0dd)   
+![Recording Screen](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/d96655f9-63de-45b9-9edc-ee7c5c0d0058)           ![multi records](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/9a830621-71f9-4545-981b-24f33d98d0dd)   
 
 
                                                                                                                                                                                                                       
