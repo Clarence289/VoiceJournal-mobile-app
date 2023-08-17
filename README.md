@@ -1,3 +1,4 @@
+![Home page](https://github.com/Clarence289/VoiceJournal-mobile-app/assets/81553212/80ed8094-d0a4-45c3-b357-26facf3acaf4)
 
 
 
