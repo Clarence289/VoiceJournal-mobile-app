@@ -1,9 +1,7 @@
-
-
-
-
 ﻿# VoiceJournal-App
-#React Native App
+
+
+#React Native for mobile phone Android/ IOS
 
 
 
